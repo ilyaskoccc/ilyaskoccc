@@ -70,8 +70,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilyaskoccc&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ilyaskoccc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ilyaskoccc&show_icons=true&theme=radical&hide_border=true" height="120" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ilyaskoccc&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=radical&hide_border=true" height="120" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilyaskoccc&theme=radical&hide_border=true" height="120" alt="streak stats" />
 </div>
 
 ###
