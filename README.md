@@ -17,12 +17,12 @@
 <br clear="both">
 
 <p align="left">
-  I'm İlyas Koç, a passionate Full Stack Developer from Kocaeli I love building scalable web applications and always strive to learn new technologies. My goal is to create effective and user-friendly experiences by combining creativity and functionality.<br><br>
-  - 💻 I know React, Tailwind CSS, and TanStack Query.<br>
-  - 🏄‍♂️ In my free time, I enjoy doing sports, discovering new places, and looking for new challenges.<br>
-  - 👨‍💻 I work as a Full Stack Developer.<br>
-  - 📚 I'm currently learning Java, Spring Boot, PostgreSQL, and MongoDB.<br>
-  - 🎯 My goal is to learn .NET 8 and Python.<br>
+  I'm İlyas Koç, a passionate Full Stack Developer based in Istanbul (Kartal). I love building scalable and user-friendly web applications, and I continuously strive to learn new technologies to improve my craft.<br><br>
+  
+  - 💻 I have experience with React, Tailwind CSS, TanStack Query, Java, Spring Boot, PostgreSQL, and MongoDB.<br>
+  - 👨‍💻 I'm currently expanding my backend skills by learning ASP.NET and MS SQL.<br>
+  - 🏄‍♂️ In my free time, I enjoy sports, discovering new places, and challenging myself with new experiences.<br>
+  - 🎯 My long-term goal is to build sustainable, user-friendly, and globally scalable projects.<br>
 </p>
 
 <br clear="both">
