@@ -4,10 +4,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://platane.github.io/snk/snake.svg" width="100%"/>
-</div>
-
 ###
 
 <h2 align="center">👩‍💻 <strong>About Me</strong></h2>
