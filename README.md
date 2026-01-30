@@ -137,19 +137,19 @@ I care about clean architecture, DX, and performance. Currently polishing a prof
 <!-- 1-2-3: same row, spaced -->
 <p align="center">
   <img
-    height="118"
+    height="115"
     src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=ilyaskoccc&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    height="118"
+    height="115"
     src="https://streak-stats.demolab.com/?user=ilyaskoccc&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    height="118"
+    height="115"
     src="https://beautiful-github-homepage.vercel.app/api?username=ilyaskoccc&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
     alt="Ilyas GitHub Stats"
   />
