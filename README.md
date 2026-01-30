@@ -27,7 +27,7 @@
     <img height="34" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=8B5CF6" alt="Instagram" />
   </a>
   
-  <a href="mailto:ilyaskocdev@gmail.com">
+  <a href="mailto:ilyaskocdev@gmail.com?subject=Project%20Inquiry%20%E2%80%93%20%5BCompany%2FName%5D&body=Hi%20%C4%B0lyas%2C%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20I%E2%80%99d%20like%20to%20discuss%20a%20potential%20project.%0A%0AProject%20type%3A%20%5Be.g.%20Web%20App%20%2F%20API%20%2F%20Dashboard%20%2F%20MVP%5D%0AScope%20summary%3A%20%5Bbrief%20description%5D%0ATech%20stack%20(preferred)%3A%20%5Boptional%5D%0ATimeline%3A%20%5Bdate%20or%20range%5D%0ABudget%20range%3A%20%5Boptional%5D%0A%0ABest%20way%20to%20reach%20me%3A%20%5Bemail%2Fphone%5D%0A%0AThanks%2C%0A%5BYour%20Name%5D">
     <img height="34" src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=8B5CF6" alt="Email" />
   </a>
   
