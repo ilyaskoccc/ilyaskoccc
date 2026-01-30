@@ -143,7 +143,7 @@ I care about clean architecture, DX, and performance. Currently polishing a prof
   />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    height="115"
+    height="120"
     src="https://streak-stats.demolab.com/?user=ilyaskoccc&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
